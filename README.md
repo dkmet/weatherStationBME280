@@ -9,20 +9,37 @@ Oprema:
 
 ## Povezava BMEP280 z NodeMcu ESP8266
 
-BMEP280	NodeMCU
-VIN		3.5V
-GND		GND
-SCL		D1
-SDA		D2
+BMEP280
+	NodeMCU
+	
+VIN
+		3.5V
+		
+GND
+		GND
+		
+SCL
+		D1
+		
+SDA
+		D2
+		
 
 Deep-Sleep:
-NodeMCU	NodeMCU
-RST		D0
+NodeMCU
+	NodeMCU
+	
+RST
+		D0
+		
 
 
 Baterija:
+
 + na 5v
+
 - na GND
+
 
 
 ## Nastavitve
