@@ -70,3 +70,5 @@ git push
 [Deep-Sleep](https://www.losant.com/blog/making-the-esp8266-low-powered-with-deep-sleep)
 
 [Povezava z baterijo](http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/powering-the-esp-12e-nodemcu-development-board/)
+
+[Adafruit] (https://cdn-learn.adafruit.com/downloads/pdf/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout.pdf)
